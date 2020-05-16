@@ -1,4 +1,3 @@
-/* eslint-disable prefer-destructuring */
 /* *******************************************************************************************
  *                                                                                           *
  * Plese read the following tutorial before implementing tasks:                              *
